@@ -10,16 +10,26 @@ This project is a clone of the Airbnb web application. It aims to replicate the 
 ## 💻 Tech Stack
 
 ### Frontend
-- React (with TypeScript)
-- Next.js (for SSR and SSG)
-- TailwindCSS (for styling)
+<div>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
 
 ### Backend
-- Python, Django (for illustrative purposes)
-- MySQL (database)
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 ### State Management & Tools
-- Redux or Context API
-- REST API
-- Jest (for testing)
+<div>
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/-REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</div>
+
 
