@@ -78,7 +78,36 @@ In any booking system, **user experience directly impacts engagement and convers
 - **Trust-building** through a consistent and visually appealing design.
 - **Accessibility** for all users, regardless of device or ability.
 
-—
+
+### 🎨 Figma Design Properties
+
+#### Typography
+
+| Role             | Font Family     | Weight     | Size             |
+|------------------|------------------|------------|------------------|
+| Primary Font     | Circular         | Medium (500) | 16px           |
+| Headings         | Circular         | Bold (700)   | 24px – 32px     |
+| Secondary Text   | Circular         | Book (400)   | 14px            |
+
+#### Color Styles
+
+| Role             | Hex Code   | Usage Example                      |
+|------------------|------------|------------------------------------|
+| Primary          | #FF5A5F    | Main buttons, call-to-actions      |
+| Secondary        | #008489    | Tags, accents                      |
+| Background       | #FFFFFF    | General backgrounds                |
+| Text             | #222222    | Main content text                  |
+| Secondary Text   | #717171    | Descriptive or muted text          |
 
 
+These colors are applied to different components such as buttons, texts, icons, and containers based on context within the Figma mockup.
 
+
+### Importance of Identifying Design Properties
+
+Understanding and documenting the design properties of a mockup is essential because:
+
+-  It ensures **visual consistency** across the project.
+-  It speeds up development by reducing back-and-forth with designers.
+-  It improves **readability and accessibility**.
+-  It strengthens **collaboration** between design and dev teams.
