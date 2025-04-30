@@ -7,7 +7,7 @@ This project is a clone of the Airbnb web application. It aims to replicate the 
 - Adhere to timelines and milestones.
 - Leverage modern web development tools and technologies.
 - Collaborate effectively in a simulated team environment.
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 <div>
@@ -38,7 +38,7 @@ Creating a seamless and intuitive user experience is central to the success of t
 
 ---
 
-### 🔍 Design Goals
+### Design Goals
 
 - Create a clean and responsive layout for all screen sizes (mobile-first design).
 - Ensure fast and intuitive navigation between pages.
@@ -48,7 +48,7 @@ Creating a seamless and intuitive user experience is central to the success of t
 
 ---
 
-### 📌 Key UI Features
+### Key UI Features
 
 - **Responsive Navigation Bar** with links to Home, Explore, and Bookings.
 - **Search Bar** with location, date, and guest filters.
@@ -59,7 +59,7 @@ Creating a seamless and intuitive user experience is central to the success of t
 
 ---
 
-### 🗂 Primary Pages
+### Primary Pages
 
 | Page Name               | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -69,7 +69,7 @@ Creating a seamless and intuitive user experience is central to the success of t
 
 ---
 
-### 💡 Importance of User-Friendly Design
+### Importance of User-Friendly Design
 
 In any booking system, **user experience directly impacts engagement and conversions**. A confusing interface can cause users to abandon the process. By prioritizing intuitive layouts, quick feedback, and easy navigation, we ensure:
 
@@ -79,7 +79,7 @@ In any booking system, **user experience directly impacts engagement and convers
 - **Accessibility** for all users, regardless of device or ability.
 
 
-### 🎨 Figma Design Properties
+### Figma Design Properties
 
 #### Typography
 
@@ -112,7 +112,7 @@ Understanding and documenting the design properties of a mockup is essential bec
 -  It improves **readability and accessibility**.
 -  It strengthens **collaboration** between design and dev teams.
 
-  ## 👥 Project Roles and Responsibilities
+  ## Project Roles and Responsibilities
 
 In this project, the following roles and responsibilities are assigned to ensure smooth collaboration and successful delivery of the Airbnb Clone application. Each role contributes to the project’s success through focused efforts and teamwork.
 
@@ -128,3 +128,17 @@ In this project, the following roles and responsibilities are assigned to ensure
 | **Scrum Master**     |  Facilitate Agile processes, ensuring the team follows Scrum practices. <br>  Remove blockers and obstacles hindering the team’s progress. <br>  Organize Scrum ceremonies, such as daily stand-ups and sprint planning meetings. <br>  Foster a collaborative and productive team environment. <br>  Ensure continuous improvement through retrospectives and feedback. |
 
 These roles are critical to the success of the **Airbnb Clone Project**. Each role contributes to the project by ensuring effective communication, smooth execution, and high-quality deliverables. Clear responsibilities help align team efforts and streamline the development process.
+
+## UI Component Patterns
+
+In the **Airbnb Clone Project**, the following components will be designed and implemented to ensure a clean and user-friendly interface. These components will be reusable and consistent throughout the application.
+
+### Planned Components
+
+| **Component**     | **Elements**                                                                 |
+|-------------------|-------------------------------------------------------------------------------|
+| **Navbar**        |  Logo <br>  Search bar <br>  User navigation <br>  Responsive menu         |
+| **Property Card** |  Property image <br>  Basic details (price, location, rating) <br>  Favorite button <br>  Responsive layout |
+| **Footer**        |  Site links <br>  Company information <br>  Social media links <br>  Copyright information |
+
+Each component will be designed with reusability and consistency in mind to maintain a cohesive look and feel throughout the application.
