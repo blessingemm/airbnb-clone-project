@@ -111,3 +111,20 @@ Understanding and documenting the design properties of a mockup is essential bec
 -  It speeds up development by reducing back-and-forth with designers.
 -  It improves **readability and accessibility**.
 -  It strengthens **collaboration** between design and dev teams.
+
+  ## 👥 Project Roles and Responsibilities
+
+In this project, the following roles and responsibilities are assigned to ensure smooth collaboration and successful delivery of the Airbnb Clone application. Each role contributes to the project’s success through focused efforts and teamwork.
+
+| **Role**              | **Responsibilities**                                                                 |
+|-----------------------|--------------------------------------------------------------------------------------|
+| **Project Manager**   |  Oversee project timeline and ensure milestones are met. <br>  Coordinate the team to ensure collaboration and communication. <br>  Manage project deliverables and resources. <br>  Track and mitigate risks to ensure project success. |
+| **Frontend Developers**  |  Implement UI components based on the design mockups. <br>  Ensure a responsive and mobile-friendly design. <br>  Work closely with designers to maintain design consistency. <br>  Integrate frontend components with backend APIs. |
+| **Backend Developers**  |  Develop and maintain server-side logic for the application. <br>  Manage the database and design efficient data models. <br>  Build and integrate APIs for seamless communication with the frontend. <br>  Implement security measures and optimize server performance. |
+| **Designers**         |  Create wireframes, mockups, and prototypes. <br>  Maintain and update the design system to ensure visual consistency. <br>  Ensure a high-quality user experience (UX) by designing intuitive layouts. <br>  Collaborate with frontend developers to implement the UI designs. |
+| **QA/Testers**       |  Write test cases and perform thorough testing of the application. <br>  Conduct both manual and automated testing. <br>  Identify, document, and report bugs and issues. <br>  Verify bug fixes and perform regression testing. |
+| **DevOps Engineers**  |  Manage deployment and continuous integration/continuous deployment (CI/CD) pipelines. <br>  Maintain server infrastructure and cloud-based environments. <br>  Monitor application performance and ensure high uptime. <br>  Implement security measures and ensure production environment compliance. |
+| **Product Owner**     |  Define and prioritize product features and user requirements. <br>  Represent stakeholders’ interests and act as the liaison between the team and clients. <br>  Ensure that the product delivers value to the end-users. <br>  Make key decisions regarding scope and approve completed work. |
+| **Scrum Master**     |  Facilitate Agile processes, ensuring the team follows Scrum practices. <br>  Remove blockers and obstacles hindering the team’s progress. <br>  Organize Scrum ceremonies, such as daily stand-ups and sprint planning meetings. <br>  Foster a collaborative and productive team environment. <br>  Ensure continuous improvement through retrospectives and feedback. |
+
+These roles are critical to the success of the **Airbnb Clone Project**. Each role contributes to the project by ensuring effective communication, smooth execution, and high-quality deliverables. Clear responsibilities help align team efforts and streamline the development process.
